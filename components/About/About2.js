@@ -54,7 +54,7 @@ const About2 = ({ clientHeight }) => {
           >
             strong
           </span>{" "}
-          obsession for attention to detail.
+          Place Holder
         </h1>
       </div>
     </section>

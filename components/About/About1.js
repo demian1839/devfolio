@@ -61,7 +61,7 @@ const About1 = ({ clientHeight }) => {
           </span>
           <span className="about-2 leading-tight">
             Place Holder
-            frontend architecture.{" "}
+            .{" "}
           </span>
         </h1>
       </div>
